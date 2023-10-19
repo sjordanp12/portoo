@@ -1,0 +1,122 @@
+body {
+  background-image: url(istockphoto-1253135360-170667a.jpg);
+  background-position: center;
+}
+.navbar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background-color: black;
+}
+.navbar-brand {
+  font-family: 'Outfit', sans-serif;
+  color: white;
+}
+
+.navbar-brand span {
+  color: red;
+}
+.navbar-nav {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-link {
+  margin-right: 15px;
+}
+
+.jumbotron {
+  color: rgb(10, 0, 0);
+  padding-top: 10px;
+}
+
+.rounder-circlee {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.jumbotron .display-4 {
+  font-family: 'Pacifico', cursive;
+  color: white;
+}
+
+.judul {
+  font-family: 'Lexend', sans-serif;
+  color: white;
+  font-size: 30px;
+}
+
+.isi {
+  color: white;
+  font-family: 'Acme', sans-serif;
+  font-size: 15px;
+  padding-bottom: 50px;
+}
+
+.gambar {
+  width: 80px;
+  height: 60px;
+}
+
+.card1 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.gambar2 {
+  width: 30px;
+  height: 30px;
+}
+
+.padding {
+  padding-top: 100px;
+}
+
+/* .blue {
+  background-color: #a2d9ff;
+} */
+
+.card-text {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.card-header {
+  font-family: 'Josefin Sans', sans-serif;
+  color: red;
+}
+.col p {
+  color: white;
+}
+
+.borderr {
+  border-bottom: 1px solid white;
+}
+
+.card {
+  border: 1px solid white;
+}
+
+.card-header {
+  border: 0.1px solid white;
+}
+.border-top {
+  border-top: 1px solid white;
+}
+.btn {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+  outline: 2px solid black;
+}
+
+.row {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+footer {
+  text-align: center;
+  overflow: hidden;
+  color: white;
+}
